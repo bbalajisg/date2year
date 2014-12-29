@@ -1,4 +1,4 @@
-package com.balab.com.balab
+package com.balab
 
 import org.joda.time.format.DateTimeFormat
 import org.joda.time.chrono.ISOChronology
@@ -7,7 +7,7 @@ import org.joda.time.chrono.ISOChronology
 /**
  * Created by Balaji on 28/10/2014.
  */
-package object phase {
+package object util {
 
   //private val pattern = "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'"
   private val pattern = "dd/MM/yyyy"
